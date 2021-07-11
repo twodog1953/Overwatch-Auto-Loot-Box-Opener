@@ -7,5 +7,5 @@ Then it will automatically open all the loot boxes without any human intervene. 
 
 Feel free to change the time delay between each step. 
 
-stofzuiger
+twodog
 2021.7.10
